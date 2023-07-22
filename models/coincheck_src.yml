@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: coincheck_btc_jpy
+    database: tough-flow-388709
+    schema: coincheck_btc_jpy  
+    tables:
+      - name: raw_data
